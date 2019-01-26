@@ -1,0 +1,10 @@
+*.dat
+*.o
+*.ltx
+*.pyg
+*.log
+*.out
+*.toc
+*.dvi
+*.gz
+# report
